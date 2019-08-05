@@ -11,3 +11,5 @@
 實作2: IaasPaas Workshop - COS - s3fs-rev1.pdf
 
 實作(選項，回家練習):IaasPaas Workshop - COS - Cloud Function-rev1.pdf
+
+實作3: IaasPaas Workshop - IKS.pdf
