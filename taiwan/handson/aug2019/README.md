@@ -6,10 +6,10 @@
 
 課程講義: Portal_4-3.pptx
 
-實作1: IaasPaas Workshop - Portal - VPN Virtual Server-rev1.pdf
+實作1: IaasPaas Workshop - Portal - VPN Virtual Server.pdf
 
-實作2: IaasPaas Workshop - COS - s3fs-rev1.pdf
+實作2: IaasPaas Workshop - COS - s3fs.pdf
 
-實作(選項，回家練習):IaasPaas Workshop - COS - Cloud Function-rev1.pdf
+實作(選項，回家練習):IaasPaas Workshop - COS - Cloud Function.pdf
 
 實作3: IaasPaas Workshop - IKS.pdf
