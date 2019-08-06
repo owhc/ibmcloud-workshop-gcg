@@ -13,3 +13,5 @@
 實作(選項，回家練習):IaasPaas Workshop - COS - Cloud Function.pdf
 
 實作3: IaasPaas Workshop - IKS.pdf
+
+實作4: IaasPaas Workshop - VPC.pdf
