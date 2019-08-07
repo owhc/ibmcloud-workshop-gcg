@@ -14,6 +14,12 @@
 
 實作(選項，回家練習):IaasPaas Workshop - COS - Cloud Function.pdf
 
+課程講義: Networking Introduction_4-3.pdf
+
+課程講義: IKS Introduction_4-3.pdf
+
 實作3: IaasPaas Workshop - IKS.pdf
+
+課程講義: VPC Introduction_4-3.pdf
 
 實作4: IaasPaas Workshop - VPC.pdf
