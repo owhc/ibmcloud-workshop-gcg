@@ -4,6 +4,7 @@
 日期｜2019年8月7日（三）與8月8日（四）09:30-17:00 （兩天議程相同，請擇一日期參加）
 地點｜台北恆逸教育訓練中心（台北市復興北路99號16樓）
 
+課程講義: IBM Cloud Platform Intro to TW BP - v1 - HC190806.pdf
 課程講義: Portal_4-3.pptx
 
 實作1: IaasPaas Workshop - Portal - VPN Virtual Server.pdf
