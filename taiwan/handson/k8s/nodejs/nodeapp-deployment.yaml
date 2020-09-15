@@ -10,8 +10,8 @@ spec:
   template:
     metadata:
       labels:
-        app: web-app
+        app: nodeapp
     spec:
       containers:
       - name: nodeapp
-        image: jp.icr.io/oc-expo/nice-node:v1
+        image: jp.icr.io/oc-repo/nice-node:v1
