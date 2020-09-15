@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-nodejs-service
+spec:
+  type: NodePort
+  ports:
+  - port: 8080
+    nodePort: 31315
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: hello-nodejs
+
+
+#kubectl expose deploy hello-nodejs --type=NodePort --name=hello-nodejs-service
