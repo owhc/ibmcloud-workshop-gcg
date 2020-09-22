@@ -30,3 +30,7 @@ ibmcloud cr build -t jp.icr.io/oc-repo/nice-node:v1 .
 #kubectl create deployment nodeapp --image=jp.icr.io/oc-repo/nice-node:v1
 
 
+
+#kubectl expose deployment/hello-world --type=NodePort --port=8080 --name=hello-world --target-port=8080
+
+
